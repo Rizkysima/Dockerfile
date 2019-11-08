@@ -1,5 +1,16 @@
 # Dockerfile
 
+
+git clone https://github.com/Rizkysima/Dockerfile
+
+cd Dockerfile
+
+python2 injectx.py
+
+
+
+
+
 ![alt tag](https://github.com/1N3/BlackWidow/blob/master/blackwidowlogo.png)
 
 ## ABOUT:
